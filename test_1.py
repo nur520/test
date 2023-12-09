@@ -1,1 +1,1 @@
-print("i love my wife")
+print("My name is Nur")
